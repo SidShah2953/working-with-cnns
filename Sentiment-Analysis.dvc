@@ -1,0 +1,6 @@
+outs:
+- md5: 18380d3c2392229ac9ce5bc6eb178179.dir
+  size: 150797571
+  nfiles: 4
+  hash: md5
+  path: Sentiment-Analysis

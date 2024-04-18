@@ -1,6 +1,6 @@
 # Tasks
 
-## Due 16 April, 2024
+## Due 16 April 2024
 
 1. Transfer Learning for image data using CNN
     - [x] Download about 100 images of ducks and 100 images of chickens from the internet
@@ -9,7 +9,7 @@
 
 2. Transfer Learning for text data using Transformer
     - [x] Download the sentiment analysis dataset from <https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset>
-    - [ ]  Build a sentiment analysis classifier to classify the sentiment into positive, neutral, and negative by fine-tuning a pre-trained transformer model and print your classification report
+    - [x] Build a sentiment analysis classifier to classify the sentiment into positive, neutral, and negative by fine-tuning a pre-trained transformer model and print your classification report
 
 ## References
 
