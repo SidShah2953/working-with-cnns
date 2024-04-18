@@ -1,0 +1,5 @@
+[core]
+    remote = cats-and-chickens
+['remote "cats-and-chickens"']
+    url = gdrive://1y1prp3eLv91w8uziKCjfGELtNCgLCNa4
+    gdrive_acknowledge_abuse = true

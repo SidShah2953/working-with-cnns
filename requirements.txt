@@ -1,0 +1,5 @@
+tensorflow
+chardet
+cchardet
+menpo
+opencv
